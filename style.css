@@ -1,16 +1,17 @@
 body{
-  font-family: 'Poppins', sans-serif;
+   font-family: 'Poppins', sans-serif;
    font-family: 'Roboto', sans-serif;
 }
 /* our package section style  */
 .package{
-background-color:#FEF5FA;
-border: none;
+ background-color:#FEF5FA;
+ border: none;
 }
 /* widding bascik   */
 .widding{
     border-radius: 5%;
 }
 .Hotposition{
-   bottom:415px;
+    bottom:425px;
     left: 210px;
+}
